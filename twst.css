@@ -23,6 +23,7 @@ body {
     font-family: "Bebas Neue", serif;
     font-weight: 400;
     font-style: normal;
+    background-color: aqua;
       
 }
 .container {
@@ -39,6 +40,7 @@ body {
     align-items: center; /* Alinha itens verticalmente */
     justify-content: center; /* Centraliza horizontalmente */
     border: 5px solid white; /* Adiciona uma borda branca */
+    background-color: chartreuse;
 }
 .conteudo {
     
@@ -48,6 +50,7 @@ body {
     justify-content: center; /* Centraliza horizontalmente */
     color: white; /* Define cor do texto */
     border: 5px solid white; /* Adiciona uma borda branca */
+    background-color: crimson;
 }
 .rodape {
     
@@ -58,6 +61,7 @@ body {
     align-items: center; /* Alinha itens verticalmente */
     justify-content: center; /* Centraliza horizontalmente */
     border: 5px solid white; /* Adiciona uma borda branca */
+    background-color: fuchsia;
 }
 
 
